@@ -1,0 +1,24 @@
+body { 
+    font-family: monospace;
+    background-image:url("images/Javascript\Work\Black Jack game\game.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    background-color: goldenrod;
+    color:darkgreen;
+    width: 150px;
+    padding: 5px 10px 5px 10px;
+    font-weight: bold;
+    border-radius: 3px;
+    margin: 10px 4px 10px 4px;
+    
+}
